@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af9721d3-7dad-4245-94f0-1196f5e103ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blog: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blog: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="blog_article: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/SoftWare/Develoment/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\SoftWare\Develoment\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aqAFlbhSl6XmhJ5XuVv7c0AKhK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ThinkPad\Desktop\MyBatisGenerator\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lanqiao.test.Test" />
+      <module name="MyBatisGenerator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lanqiao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af9721d3-7dad-4245-94f0-1196f5e103ba" name="Default Changelist" comment="" />
+      <created>1587452648930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587452648930</updated>
+      <workItem from="1587452655596" duration="1982000" />
+      <workItem from="1587457638232" duration="812000" />
+      <workItem from="1587534797106" duration="800000" />
+      <workItem from="1587537340213" duration="2495000" />
+      <workItem from="1587552257219" duration="956000" />
+      <workItem from="1587626687072" duration="633000" />
+      <workItem from="1587633148290" duration="248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="313" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587633174776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="399" y="313" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587633174776" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587453041015">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587453041015" />
+    <state x="634" y="260" key="FileChooserDialogImpl" timestamp="1587452987116">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587452987116" />
+    <state width="1877" height="67" key="GridCell.Tab.0.bottom" timestamp="1587454640962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="67" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587454640962" />
+    <state width="1877" height="67" key="GridCell.Tab.0.center" timestamp="1587454640962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="67" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587454640962" />
+    <state width="1877" height="67" key="GridCell.Tab.0.left" timestamp="1587454640962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="67" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587454640962" />
+    <state width="1877" height="67" key="GridCell.Tab.0.right" timestamp="1587454640962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="67" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587454640962" />
+    <state x="540" y="254" key="IDE.errors.dialog" timestamp="1587633380401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587633380401" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1587452991117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587452991117" />
+  </component>
+</project>
