@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af9721d3-7dad-4245-94f0-1196f5e103ba" name="Default Changelist" comment="" />
+    <list default="true" id="af9721d3-7dad-4245-94f0-1196f5e103ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lanqiao/mapper/AccountCreditMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lanqiao/mapper/AccountCreditMapper.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +47,9 @@
     </expand>
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -53,6 +59,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1aqAFlbhSl6XmhJ5XuVv7c0AKhK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -67,7 +74,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -111,6 +118,9 @@
       <workItem from="1587552257219" duration="956000" />
       <workItem from="1587626687072" duration="633000" />
       <workItem from="1587633148290" duration="248000" />
+      <workItem from="1587715869500" duration="119000" />
+      <workItem from="1587716010648" duration="2919000" />
+      <workItem from="1587949173091" duration="50000" />
     </task>
     <servers />
   </component>
@@ -150,9 +160,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587633380401" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1587452991117">
+    <state x="440" y="94" key="SettingsEditor" timestamp="1587715988305">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587452991117" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587715988305" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587949173547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587949173547" />
   </component>
 </project>
