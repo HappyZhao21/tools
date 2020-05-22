@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af9721d3-7dad-4245-94f0-1196f5e103ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lanqiao/mapper/AccountCreditMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lanqiao/mapper/AccountCreditMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frp_api/frp_api/jtravel.frpc.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../frp_api/frp_api/jtravel.frpc.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +70,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -75,6 +78,9 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -121,6 +127,7 @@
       <workItem from="1587715869500" duration="119000" />
       <workItem from="1587716010648" duration="2919000" />
       <workItem from="1587949173091" duration="50000" />
+      <workItem from="1588916380676" duration="1262000" />
     </task>
     <servers />
   </component>
