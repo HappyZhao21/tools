@@ -1,0 +1,5 @@
+server:
+  undertow:
+    accesslog:
+      enabled: true
+      dir: /logs/${spring.application.name}/server

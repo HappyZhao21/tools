@@ -1,0 +1,35 @@
+logging:
+  level:
+    org.springframework: info
+    com.jtravel: debug
+    web: info
+  file:
+    path: logs
+server:
+  port: 18304
+  undertow:
+    accesslog:
+      enabled: true
+      dir: logs/server
+spring:
+  application:
+    name: jtravel-file
+  profiles:
+    active: dev
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+    serialization:
+      write_dates_as_timestamps: true
+  devtools:
+    restart:
+      enabled: true
+mybatis:
+  configLocation: classpath:META-INF/mybatis-config.xml
+  type-aliases-package: com.jtravel.api.file.domain.*.entity
+  mapper-locations: classpath*:mapper/*.xml
+mybatis-plus:
+  configuration:
+    call-setters-on-nulls: true
+  plugins:
+    PaginationInterceptor: true
