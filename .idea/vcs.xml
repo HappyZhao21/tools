@@ -2,5 +2,13 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Code/Excel-task" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/work/WorkDoc/Doc/财务系统/jtravel-admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/work/WorkDoc/Doc/财务系统/jtravel-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/work/WorkDoc/Doc/财务系统/jtravel-file" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/work/WorkDoc/Doc/财务系统/jtravel-financial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/work/WorkDoc/Doc/财务系统/jtravel-merchant" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/work/WorkDoc/Doc/财务系统/jtravel-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/work/WorkDoc/Doc/财务系统/travel-task" vcs="Git" />
   </component>
 </project>
