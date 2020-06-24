@@ -1,0 +1,7 @@
+1、安装node.js
+2、npm install --global vue-cli
+3、npm install -g webpack
+4、vue init webpack myvue
+5、cd myvue
+6 、npm install
+7、 npm run dev

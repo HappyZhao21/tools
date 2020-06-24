@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Code/Excel-task" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Code/java/Excel-task" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/work/WorkDoc/Doc/财务系统/jtravel-admin" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/work/WorkDoc/Doc/财务系统/jtravel-common" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/work/WorkDoc/Doc/财务系统/jtravel-file" vcs="Git" />
